@@ -1,0 +1,63 @@
+.register {
+  border: 0;
+  outline: none;
+  border-radius: 0;
+  padding: 15px 0;
+  font-size: 2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  background: #017cff;
+  color: #ffffff;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  -webkit-appearance: none;
+}
+
+.login {
+  background: #017cff;
+}
+
+.form {
+  background-color: #d6d6d6;
+}
+
+.back {
+  background-color: red;
+  margin-bottom: 0%;
+  width: 20%;
+  margin-left: 40%;
+}
+a{
+  color: white;
+}
+body {
+  background-color: white;
+}
+h1 {
+  color: black;
+}
+label {
+  color: black;
+}
+.tab-group .active a {
+  background-color: #4c4c4c;
+}
+.tab-group li a:hover {
+  background-color: #848484;
+}
+.register:hover, .register:focus {
+  background-color: #0062cc;
+}
+.back:hover, .back:focus {
+  background-color: #b70000;
+}
+.login:hover, .login:focus {
+  background-color: #0062cc;
+}
+input, textarea {
+  color: black;
+}
+.tab-group li a {
+  color: white;
+}
